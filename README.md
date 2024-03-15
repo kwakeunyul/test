@@ -1,2 +1,1 @@
-# test test test test test
-I am testing ~~
+contents and commmit message sending test!
